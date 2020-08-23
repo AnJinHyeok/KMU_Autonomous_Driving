@@ -1,3 +1,6 @@
+#Autonomous Driving Code Using OpenCV-Python in ROS
+#Jin Hyeok An - KonKuk University
+
 #!/usr/bin/env python
 import rospy
 from std_msgs.msg import Int32MultiArray
